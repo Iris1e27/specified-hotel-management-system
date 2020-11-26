@@ -56,6 +56,7 @@ A database coursework to complete some specific functions about simple hotel man
 |quit.|
 
 ## Program design
+- Use java and mysql.
 - For the reasonable screening of most illegal input, the code uses 
 a large number of do…while statements. 
 - Design 2 classes: staff and guest, when you login with one 
