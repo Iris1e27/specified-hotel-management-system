@@ -2,9 +2,9 @@
 A database coursework to complete some specific functions about simple hotel management system.
 
 ## Brief requirement description
-1.Room Booking Requirements with guest and staff mode.
+1.Room Booking Requirements with guest and staff mode. (Hotel room layout has been provided by a picture.)
 
-2.Food Service Requirements.
+2.Food Service Requirements. (Chefs' list with workdays and dishes have been provided by a table.)
 
 
 ## User manual
